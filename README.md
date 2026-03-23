@@ -19,5 +19,12 @@ Instead of training a model from scratch, this project implements a pre-trained 
 This implementation highlights the immense potential of LLMs in optimizing customer service operations. By automating the triage process, companies can significantly reduce manual routing time, minimize human error, and ensure much faster response rates for customers.
 
 ---
-**Developer:** Hatem
+##👤 Author & Organization
+
+Author: Hatem Ali
+
+Student ID: DHC-1079
+
+Organization: DevelopersHub Corporation
+
 **Date:** March 2026
